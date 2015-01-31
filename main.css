@@ -1,0 +1,114 @@
+html {
+    background-color: #000;
+}
+
+h1 {
+    font-size: 4em;
+    font-weight: normal;
+    font-family: 'Orbitron', sans-serif;
+    color: #FF9;
+    text-align: center;
+    border-bottom: 5px dotted #cff;
+    margin: .75em 0 .25em
+}
+
+a {
+    text-decoration: underline;
+    color: #FF9;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.3em;
+}
+
+a:hover {
+    border-radius: 15px;
+    padding: 1em 0;
+    background-color: #CFF;
+    color: #069;
+    margin: 0;
+}
+
+nav ol {
+  padding: 0;
+}
+
+.ol1 {
+    list-style-type: none;
+    text-align: center;
+    margin: 1em 0 3em;
+    background-color: #069;
+}
+
+
+.ol1 li {
+    padding: 1.15em .25em;
+    border-radius: 15px;
+    background-color: #059;
+    display: inline-block;
+    margin: 0;
+}
+
+li a {
+    font-size: 1.15em;
+    padding: 0;
+    margin: 0;
+}
+
+h2 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 2rem;
+    color: #CFF;
+}
+
+p {
+    color: #FFFFEB;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.1rem;
+}
+
+i, em {
+    color: #FF9;
+    font-style: normal
+}
+
+blockquote {
+    color: #9CF;
+    font-size: 1rem;
+    font-family: 'Orbitron', sans-serif;
+    padding: .75em .5em;
+    text-align: center
+}
+.ol2 {
+    list-style: disc;
+    color: #FF9;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.25rem
+}
+
+figcaption {
+    font-size: 1rem;
+    color: #9CF;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+ {
+    color: #FFFFEB;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.25rem
+}
+
+data {
+    color: #FF9;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1rem
+}
+
+footer {
+    background-color: #069;
+    padding: .25rem 0 5rem .5rem;
+}
+
+h3 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 2rem;
+    color: #CFF;
+}
