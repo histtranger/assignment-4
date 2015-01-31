@@ -54,7 +54,7 @@ li a {
 
 h2 {
     font-family: 'Orbitron', sans-serif;
-    font-size: 2rem;
+    font-size: 2em;
     color: #CFF;
 }
 
@@ -66,7 +66,7 @@ h2 {
 p {
     color: #FFFFEB;
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 1.1rem;
+    font-size: 1.1em;
 }
 
 i, em {
@@ -76,7 +76,7 @@ i, em {
 
 blockquote {
     color: #9CF;
-    font-size: 1rem;
+    font-size: 1em;
     font-family: 'Orbitron', sans-serif;
     padding: .75em .5em;
     text-align: center
@@ -85,7 +85,7 @@ blockquote {
     list-style: disc;
     color: #FF9;
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 1.15rem;
+    font-size: 1.15em;
     padding: 0 2em 2em;
 }
 
@@ -100,7 +100,7 @@ figure {
 }
 
 figcaption {
-    font-size: .75rem;
+    font-size: .75em;
     color: #9CF;
     font-family: 'Source Sans Pro', sans-serif;
     padding: .75em 2em 1em
@@ -109,24 +109,24 @@ figcaption {
 dt {
     color: #FFFFEB;
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 1.25rem;
+    font-size: 1.25em;
     padding: .5em 1em 0;
 }
 
 dd {
     color: #FF9;
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 1rem
+    font-size: 1em
 }
 
 footer {
     background-color: #069;
-    padding: .15rem 0 5rem .5rem;
+    padding: .15em 0 5em .5em;
 }
 
 h3 {
     font-family: 'Orbitron', sans-serif;
-    font-size: 2rem;
+    font-size: 2em;
     color: #CFF;
 }
 
